@@ -19,4 +19,6 @@ An ecommerce SPA, with complete features from displaying to cart!
 
 - Wait for approval
 
+- If approved, changes will be visible here
+
 `Make sure comments are informative and follow standardized rules.`
