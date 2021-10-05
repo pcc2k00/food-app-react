@@ -5,19 +5,7 @@ export default function Cardcate(props) {
 
     return (
         <div>
-            
-
-
-
-
-
-
-
-
-
-
-
-
+            CardCat
         </div>
     )
 }
